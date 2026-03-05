@@ -1,0 +1,7 @@
+.idea
+.claude/
+log-service/vendor/
+log-service/var/
+log-service/.env.local
+log-service/.env.local.php
+log-service/.env.*.local

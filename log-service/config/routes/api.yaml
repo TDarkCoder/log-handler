@@ -1,0 +1,4 @@
+api_logs_ingest:
+    path: /api/logs/ingest
+    controller: App\Controller\LogIngestionController::ingest
+    methods: [POST]
